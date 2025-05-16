@@ -1,32 +1,52 @@
-# Healthcare Patient Management System
-
-This project is a Microsoft Access database designed to manage patient information, appointments, and treatments.  
-It includes example queries and mock datasets to simulate real-world healthcare data.
-
-## Features
-
-- Patient table with personal details  
-- Appointment table with date, time, and doctor information  
-- Treatment table with medications and prescriptions  
-- Prebuilt queries:
-  - Patient treatment history  
-  - Recent appointments (last year)  
-  - Most common prescriptions  
-  - Upcoming appointments
-
-## Tools Used
-
-- Microsoft Access  
-- Mockaroo (for generating mock patient data)  
-- Excel / CSV for data preparation
+#Healthcare Patient Management Database
+This project is a mock healthcare database system built using MySQL. It uses data generated via Mockaroo to simulate patients, appointments, and treatments. The goal was to practice SQL skills, data integration, and basic analytics relevant to real-world healthcare systems.
 
 ## Files Included
+patients.csv — Mock patient info (name, DOB, gender, email)
 
-- `Healthcare Database.accdb` — Access database with tables, relationships, and queries  
-- `patients.csv` — Patient data  
-- `appointments.csv` — Appointment data  
-- `treatments.csv` — Treatment data
+appointment.csv — Appointment dates, assigned doctors
 
-## Notes
+treatments.csv — Patient treatment history and medications
 
-This project is for educational/demo purposes and does not contain real patient data.
+healthcare database.sql — All SQL queries and table logic
+
+##Features & Queries
+✔ Data Import & Table Setup
+Imported CSV data into structured MySQL tables.
+
+Established relationships via patient_id.
+
+##Core Queries
+List all patient info and treatments.
+
+Join patients with their appointment and doctor info.
+
+Filter for upcoming appointments using NOW().
+
+##Status Feature
+Added a status column to the appointment table to mark if an appointment is:
+
+Upcoming
+
+Completed
+
+Unknown
+
+Automatically updated using SQL CASE logic.
+
+##Analytics
+Count of appointments by status.
+
+Sort patients to show those with upcoming visits first.
+
+Identify the next upcoming appointment.
+
+##What I Learned
+Creating and managing relational databases in MySQL.
+
+Using JOINs, DATE functions, and conditional logic.
+
+Writing clear, maintainable SQL with comments.
+
+Simulating real-world business logic using mock data.
+
