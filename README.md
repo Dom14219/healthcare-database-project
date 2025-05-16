@@ -11,7 +11,7 @@ treatments.csv — Patient treatment history and medications
 healthcare database.sql — All SQL queries and table logic
 
 ## Features & Queries
-✔ Data Import & Table Setup
+Data Import & Table Setup
 Imported CSV data into structured MySQL tables.
 
 Established relationships via patient_id.
