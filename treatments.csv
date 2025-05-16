@@ -1,0 +1,1001 @@
+﻿treatment_id,patient_id,treatment_date,treatment_medication
+877222578,1,2024-08-13,Lisinopril
+767750621,2,2024-06-17,fibrinogen human and thrombin human
+610578456,3,2026-02-22,Aluminum zirconium tetrachlorohydrex gly
+991010561,4,2026-09-09,cisatracurium besylate
+099029230,5,2025-07-13,doxazosin mesylate
+265959933,6,2026-04-30,Sodium Fluoride
+487527295,7,2025-10-29,"hard fat, phenylephrine HCl"
+700609276,8,2024-07-28,Sulfamethoxazole and Trimethoprim
+199991301,9,2025-01-24,Zolpidem Tartrate
+402130155,10,2024-06-28,hydrocortisone butyrate
+435253452,11,2023-06-07,"hydrocodone bitartrate, acetaminophen"
+602631688,12,2026-07-15,Naproxen Sodium
+449446037,13,2025-01-03,Isopropyl Alcohol
+289127808,14,2026-04-27,METRONIDAZOLE
+928364000,15,2024-04-02,TRICLOSAN
+309817504,16,2026-02-19,Titanium Dioxide
+512692717,17,2024-12-05,hypromellose
+777850332,18,2026-08-11,OCTINOXATE and TITANIUM DIOXIDE
+004628768,19,2023-11-19,Estradiol
+387600576,20,2023-06-23,mycobacterium phlei
+957661103,21,2023-08-02,Coal Tar
+820925637,22,2026-09-28,Topiramate
+732262379,23,2024-09-25,"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone"
+884612637,24,2023-05-12,Loperamide Hydrochloride
+221240350,25,2026-11-18,Loxapine
+444898159,26,2024-05-26,SODIUM FLUORIDE
+728281584,27,2023-09-23,STEMPHYLIUM SOLANI
+308076712,28,2024-10-22,conjugated estrogens and medroxyprogesterone acetate
+872704607,29,2025-07-26,Hydrochlorothiazide
+991875900,30,2026-04-26,Ofloxacin
+964659039,31,2023-10-09,Azithromycin
+395864973,32,2025-03-26,Argentum Metallicum
+114729247,33,2026-07-12,"Arnica montana, Baryta carbonica, Calcarea phosphorica, Ginkgo biloba, Hamamelis virginiana, Millefolium, Phosphoricum acidum"
+927907810,34,2023-10-16,Loratadine
+677246458,35,2025-11-15,"Grindelia (Robusta), Urtica urens, Ledum palustre, Staphysagria, Cedron,"
+529806416,36,2024-09-14,Thuja Occidentalis
+394465116,37,2024-11-16,GLYCERIN
+494923298,38,2026-05-02,Donepezil Hydrochloride
+953190404,39,2024-05-05,Bismuth subsalicylate
+998824438,40,2025-04-27,doxazosin
+770245106,41,2024-02-11,Ceftriaxone Sodium
+124763344,42,2026-11-11,"TITANIUM DIOXIDE, OCTINOXATE, ZINC OXIDE"
+577585069,43,2025-06-19,Ibuprofen
+326413775,44,2026-06-21,Cefazolin
+780850582,45,2026-09-16,"Alumen, Benzoicum acidum, Cadmium sulphuricum, Chelidonium majus, Colchicum autumnale, Dulcamara, Hypothalamus, Manganum aceticum, Mercurius solubilis, Natrum muriaticum, Nitricum acidum, Phosphorus, Ranunculus bulbosus, Rhododendron chrysanthum, Thyroidinum"
+277929220,46,2025-03-30,Eucalyptol
+984414773,47,2024-02-27,Doxycycline Hyclate
+084558654,48,2025-11-20,"Chelidonium majus, Echinacea (angustifolia), Hydrastis canadensis, Nasturtium aquaticim, Taraxacum officinale, Trifolium pratense, Urtica dioica,"
+112293904,49,2024-10-29,"carbidopa, levodopa, and entacapone"
+372914272,50,2026-07-05,Ciprofloxacin
+648812043,51,2024-12-14,CARVEDILOL
+641043889,52,2024-08-08,Nicotine polacrilex
+886251545,53,2024-02-20,Oxygen
+523753199,54,2024-02-03,Ondansetron Hydrochloride
+821851024,55,2025-10-31,Metoclopramide
+130952106,56,2026-02-06,GRANISETRON HYDROCHLORIDE
+966565125,57,2024-12-09,"Berber vulg, Carduus mar, Chelidonium maj, Podoph pelt, Serum anguillae, Symphoricarpus, Zingiber"
+943849964,58,2025-01-23,Acitretin
+803963528,59,2023-05-17,Pilocarpine Hydrochloride
+282781914,60,2024-03-20,loperamide hydrochloride
+957092687,61,2025-02-20,Psyllium Husk
+880043569,62,2024-11-07,enoxaparin sodium
+698569549,63,2023-05-24,hydrocortisone
+094692213,64,2025-12-25,cephalexin
+260223174,65,2023-11-22,Amiodarone Hydrochloride
+645730801,66,2025-11-16,Valacyclovir
+451087133,67,2023-12-22,Acetaminophen and Diphenhydramine HCl
+574619978,68,2023-12-08,EUCALYPTOL
+487315433,69,2025-01-18,Hydralazine Hydrochloride
+970578049,70,2025-04-05,DEXTRAN 70
+242928055,71,2026-08-11,"Dextrose (glucose), Levulose (fructose), Phosphoric Acid"
+375259650,72,2025-10-17,Yellow Jacket hymenoptera venom Multidose
+404918076,73,2024-01-17,Alfuzosin Hydrochloride
+342976135,74,2025-07-20,"Neomycin Sulfate, Polymyxin B Sulfate, Hydrocortisone"
+207260497,75,2025-08-27,penicillin G benzathine and penicillin G procaine
+951252150,76,2024-06-02,Titanium Dioxide and Zinc Oxide
+201181109,77,2026-08-29,"Menthol, zinc oxide"
+949123984,78,2026-10-11,Octinoxate
+938444200,79,2026-05-22,allopurinol
+265386845,80,2024-06-25,Spironolactone and Hydrochlorothiazide
+087708767,81,2024-02-06,Warfarin Sodium
+108459927,82,2024-12-14,alcohol
+729100802,83,2023-06-20,Ampicillin sodium and Sulbactam sodium
+651723646,84,2026-08-23,Fluocinonide
+546723593,85,2026-08-27,Loratadine
+309674473,86,2024-11-12,Ketorolac Tromethamine
+756789532,87,2026-10-13,Tioconazole
+735921883,88,2026-10-09,"Triticum Aestivum, Baptisia Tinctoria, Capsicum Annuum, Columbo, Fragaria Vesca, Hamamelis Virginiana"
+985067021,89,2024-07-24,"Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride"
+297906481,90,2023-05-25,Heparin Sodium
+276454833,91,2026-01-01,AMANTADINE HYDROCHLORIDE
+012643534,92,2025-07-12,"Undecylenic acid, Triclosan"
+695261392,93,2025-11-14,"Acetaminophen, Dextromethorphan HBr, Phenylephrine HCl"
+720291211,94,2026-11-10,Undecylenic acid
+960373141,95,2026-02-07,Metronidazole
+357155317,96,2024-11-09,Hog Epithelium
+763015072,97,2026-01-30,lamotrigine
+511140155,98,2025-02-28,Nicotine Polacrilex
+074256183,99,2024-03-21,FAMOTIDINE
+645228647,100,2023-12-13,metoprolol tartrate
+101790603,101,2023-05-14,Grama Grass
+654651854,102,2025-12-05,Thioridazine Hydrochloride
+464431503,103,2023-12-13,Etodolac
+836405442,104,2024-05-07,White Pine
+144919330,105,2024-02-08,hydroxyzine hydrochloride
+839522686,106,2024-04-26,"Octinoxate, Avobenzone, and Octisalate"
+263090888,107,2025-05-14,DUREZOL
+135601661,108,2025-07-16,GRINDELIA HIRSUTULA FLOWERING TOP
+629954919,109,2024-05-08,Ciprofloxacin Hydrochloride
+137118886,110,2025-04-24,pyrimethamine
+252871373,111,2023-08-22,Hydrocortisone Acetate
+286967762,112,2025-12-30,TITANIUM DIOXIDE
+312845539,113,2024-04-13,"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone"
+359496120,114,2026-04-22,DOCUSATE SODIUM
+534780528,115,2024-07-21,"AVOBENZONE, HOMOSALATE,OCTISALATE,OCTOCRYLENE,OXYBENZONE"
+047215096,116,2024-10-18,Calendula Officinalis Flowering Top and Silicon Dioxide
+431321612,117,2025-09-27,Ketotifen Fumarate
+789094085,118,2026-04-20,"OCTINOXATE, TITANIUM DIOXIDE, and ZINC OXIDE"
+798986011,119,2024-06-12,Antihemophilic Factor Recombinant
+167263936,120,2024-02-01,rasburicase
+234244492,121,2026-10-09,PHENYTOIN SODIUM
+746992000,122,2024-02-18,Nitrogen
+553070314,123,2026-11-15,TRETINOIN
+742332339,124,2026-02-07,"Avobenzone, Homosalate, Octisalate, and Oxybenzone"
+857624243,125,2023-06-21,Benazepril Hydrochloride
+334968134,126,2026-06-10,"Picricum acidum, Arsenicum album, Aurum metallicum, Ignatia amara, Natrum muriaticum, Nitricum acidum, Pulsatilla (Vulgaris), Sepia,"
+477171939,127,2026-11-13,tolazamide
+688068731,128,2023-08-07,Carvedilol
+937772310,129,2025-12-06,"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone"
+671549913,130,2024-02-29,lovastatin
+897984545,131,2024-11-09,propranolol hydrochloride
+796353847,132,2025-09-13,"OCTINOXATE, TITANIUM DIOXIDE, and ZINC OXIDE"
+594587681,133,2026-02-12,POTASSIUM CHLORIDE
+724398696,134,2026-04-13,tretinoin
+106611815,135,2023-08-14,"Octinoxate, Octisalate, and Titanium Dioxide"
+151117530,136,2024-11-05,HYDRALAZINE HYDROCHLORIDE
+407908319,137,2026-04-19,Zinc Oxide
+863586640,138,2025-01-05,Aminophylline Dihydrate
+208880581,139,2024-05-18,cyanocobalamin
+097067735,140,2026-05-17,"Betula (Pendula), cortex), Caltha palustris, Galium aparine, Sedum acre, Thuja occidentalis, Urtica urens, Clematis erecta, Hedera helix,"
+804548375,141,2025-08-14,Sulfaccetamide Sodium
+831392059,142,2026-09-14,Olanzapine
+344629216,143,2026-01-06,"Menthol, Methyl salicylate"
+627858444,144,2023-11-12,Betamethasone Sodium Phosphate and Betamethasone Acetate
+569537549,145,2023-06-03,Amlodipine Besylate
+904560953,146,2026-05-13,Docusate Sodium
+489753602,147,2024-03-19,"OCTINOXATE, OXYBENZONE, OCTISALATE, TITANIUM DIOXIDE"
+213245814,148,2024-08-03,Isopropyl Alcohol
+493087553,149,2026-07-03,Tobramycin
+089802404,150,2023-10-04,sodium bicarbonate
+336765047,151,2026-10-07,False Ragweed
+219963180,152,2023-08-22,Sertraline Hydrochloride
+762354282,153,2025-11-05,PETROLATUM
+273022955,154,2025-07-16,"Dextroamphetamine saccharate, amphetamine aspartate monohydrate, dextroamphetamine sulfate and amphetamine sulfate"
+054653472,155,2025-07-01,Amoxicillin
+973542738,156,2024-03-23,"Avobenzone, Homosalate, Octisalate, Octocrylene and Oxybenzone"
+287787701,157,2025-09-30,Lisinopril
+619849450,158,2025-09-05,Allopurinol
+199787287,159,2026-07-21,"Loratadine, Pseudoephedrine Sulfate"
+308099613,160,2026-02-22,Nicardipine Hydrochloride
+232322385,161,2023-11-10,mycobacterium phlei
+687605578,162,2026-04-26,Atenolol and Chlorthalidone
+692963733,163,2024-09-24,"CALENDULA OFFICINALIS FLOWERING TOP and HAMAMELIS VIRGINIANA ROOT BARK/STEM BARK and ARNICA MONTANA ROOT and ACONITUM NAPELLUS and ATROPA BELLADONNA and BELLIS PERENNIS and MATRICARIA RECUTITA and ECHINACEA, UNSPECIFIED and ECHINACEA PURPUREA and ACHILLEA MILLEFOLIUM and CALCIUM SULFIDE and MERCURIUS SOLUBILIS and COMFREY ROOT and HYPERICUM PERFORATUM and"
+513472692,164,2025-05-09,NITROGLYCERIN
+387849888,165,2025-05-23,Metoclopramide
+348094378,166,2026-08-19,Fosphenytoin Sodium
+636580434,167,2026-02-20,ZALEPLON
+797075763,168,2023-11-14,Diazepam
+859180074,169,2025-03-10,"Silver, Giant Puffball, Colchicum Autumnale Bulb, Chamaelirium Luteum Root, Strychnos Ignatii Seed, Lactic Acid, DL-, Lycopodium Clavatum Spore, Phosphoric Acid, Phosphorus, Syzygium Cumini Seed, Uranyl Nitrate Hexahydrate"
+547852818,170,2023-06-01,Topiramate
+075388854,171,2026-02-06,Levetiracetam
+281876965,172,2025-02-11,TAMSULOSIN HYDROCHLORIDE
+799196868,173,2026-10-18,Brimonidine Tartrate
+355621539,174,2023-05-30,Heparin Sodium
+119072813,175,2026-07-03,galantamine hydrobromide
+609852121,176,2025-09-28,Pecan Pollen
+478949643,177,2025-08-18,Titanium Dioxide
+901078039,178,2023-07-11,ALUMINUM CHLORIDE
+961233401,179,2023-12-07,Thioridazine Hydrochloride
+604043693,180,2026-06-30,Carya ovata
+300120299,181,2026-10-18,Acetaminophen
+875489871,182,2024-03-07,Alprazolam
+879517359,183,2025-11-16,Clopidogrel
+311766911,184,2024-06-23,Ethyl Alcohol
+270818874,185,2024-04-10,Ibuprofen
+506392000,186,2023-10-03,SIMETHICONE
+908108898,187,2023-10-22,Acetaminophen and Phenylephrine HCl
+225255206,188,2024-01-27,CANDIDA PARAPSILOSIS
+555395460,189,2023-08-17,candida albicans
+545673168,190,2023-11-23,Enalapril Maleate
+399956180,191,2024-07-05,Physostigmine Salicylate
+536619921,192,2025-05-07,Metoroprolol Tartrate
+487761584,193,2024-01-22,Miconazole Nitrate
+805126312,194,2025-01-14,Povidone Iodine
+992959804,195,2025-12-09,"Dextromethorphan HBr, Guaifenesin"
+963130508,196,2024-01-27,Ibuprofen
+339045619,197,2026-03-09,Acetaminophen and Phenylephrine hydrochloride
+170925696,198,2026-03-29,Acetaminophen
+840056983,199,2026-09-24,Montelukast Sodium
+890875161,200,2025-04-29,metoprolol tartrate
+475331171,201,2023-06-29,TITANIUM DIOXIDE
+328809185,202,2024-12-28,quetiapine fumarate
+242391112,203,2023-09-04,Solbar Avo SPF35
+797177709,204,2025-12-30,Ibuprofen
+550004427,205,2025-12-18,Octinoxate and Titanium Dioxide
+649780419,206,2025-09-11,Eucalyptol
+823286733,207,2025-05-06,Metformin Hydrochloride
+319518476,208,2024-08-19,Baclofen
+743535528,209,2023-12-08,Methylprednisolone
+863016919,210,2025-01-03,sulindac
+899961095,211,2026-08-30,Octreotide Acetate
+925672874,212,2024-04-12,Calcium Acetate and Aluminum sulfate
+797370034,213,2026-01-24,METOPROLOL SUCCINATE
+347663469,214,2026-07-11,Desmopressin Acetate
+757120987,215,2025-09-20,Aspergillus fumigatus
+458134270,216,2025-12-11,Sucralfate
+427539285,217,2023-05-11,azithromycin
+127636248,218,2026-01-12,Lisinopril
+132459841,219,2024-02-25,fluocinonide
+895716232,220,2026-04-01,Zolpidem tartrate
+393654889,221,2024-07-25,Allergenic Extracts Alum Precipitated
+203787351,222,2023-06-07,Dulaglutide
+709734624,223,2026-10-29,"mineral oil, petrolatum, phenylephrine HCl"
+228527997,224,2026-06-08,ALCOHOL
+560412556,225,2025-09-30,Glycerin
+332986272,226,2025-12-19,Prednisone
+838936345,227,2024-01-22,Polyethylene Glycol 3350
+891506199,228,2025-07-28,Standardized Mite D. pteronyssinus
+482029022,229,2024-12-13,ezetimibe and simvastatin
+297636022,230,2026-01-09,"cocoa butter, phenylephrine HCl"
+124793896,231,2023-08-24,"Titanium Dioxide, Octinoxate/EthylhexylMethoxycinnamate"
+193818058,232,2025-09-08,Lidocaine Hydrochloride Anhydrous
+320465362,233,2026-05-05,Carbidopa and Levodopa
+687131429,234,2024-10-22,Olanzapine
+424133493,235,2023-11-25,Loratadine
+916933530,236,2023-06-01,Thalidomide
+888338529,237,2023-10-23,varenicline tartrate
+134517743,238,2024-02-23,Amiloride Hydrochloride
+976608860,239,2024-02-07,Heparin Sodium
+289901966,240,2026-03-02,HEPARIN SODIUM
+777780608,241,2024-03-04,lamotrigine
+030578801,242,2025-02-04,Nystatin
+239134236,243,2026-05-16,Carvedilol
+886766489,244,2025-12-11,Estradiol
+301470819,245,2026-12-01,CARBOplatin
+645076575,246,2025-05-27,"Avobenzone, Octisalate and Octocrylene"
+838470852,247,2023-09-02,ZINC OXIDE
+221285402,248,2026-09-16,CUTTLEFISH
+290762212,249,2025-11-10,salicylic acid
+214521620,250,2025-01-29,Antifungal Miconazole Liquid Continuous Spray
+433481327,251,2026-08-18,"Herpes Simplex I, Herpes Simplex II"
+802445848,252,2025-06-16,"Camphor, Menthol, Methyl Salicylate"
+038262569,253,2026-07-03,WITCH HAZEL
+316793546,254,2026-06-21,ALCOHOL
+256637478,255,2023-10-20,Carbamide Peroxide
+006396572,256,2024-06-05,enoxaparin sodium
+605077178,257,2025-11-29,Hepar Sulf
+504011639,258,2024-12-08,Ibuprofen
+060103436,259,2026-02-04,Rizatriptan benzoate
+272222409,260,2026-08-03,glipizide
+443344496,261,2026-02-13,bupropion hydrochloride
+078415078,262,2026-07-02,amlodipine besylate and olmesartan medoxomil
+478854565,263,2026-09-21,Naproxen Sodium
+589757122,264,2026-08-13,lithium carbonate
+144421163,265,2025-11-12,flumadine
+865967419,266,2026-02-22,Spiny Pigweed
+554161831,267,2025-10-10,Atomoxetine hydrochloride
+228946438,268,2026-04-20,"Arnica Montana, Echinacea (Angustifolia), Boron Glucconate, Symphytum Officinale, Hekla Lava, Calcarea Carbonica, Clacarea Fluorica, Calcarea phosphorica, Lycopodium Clavatum, Silicea."
+813590040,269,2025-02-12,TITANIUM DIOXIDE
+479151877,270,2026-04-04,Salicylic Acid
+585910833,271,2023-10-12,"Althaea officinalis, Prunus virginiana, Inula helenium"
+792543430,272,2026-08-03,betula populifolia pollen
+608617274,273,2023-09-24,Estropipate
+133864865,274,2026-08-23,Calcium carbonate
+894671447,275,2025-01-05,Diphenhydramine Hydrochloride and Zinc Acetate
+008214291,276,2023-07-04,lisinopril
+621799281,277,2025-11-10,"Potassium Chloride, Dextrose Monohydrate and Sodium Chloride"
+746820922,278,2023-11-30,Triclosan
+807570431,279,2024-01-17,Egg Plant
+517699592,280,2023-10-25,"Dextromethorphan Hydrobromide, Guaifenesin"
+163847465,281,2024-08-09,OCTINOXATE
+740635632,282,2026-04-04,Glycerin
+594153896,283,2023-06-18,Aurum Metallicum
+204785922,284,2026-11-17,COAGULATION FACTOR IX RECOMBINANT HUMAN
+975186874,285,2025-04-02,pravastatin sodium
+635865883,286,2025-02-11,Oxymetazoline HCl
+616309579,287,2023-10-10,rhizopus stolonifer
+142793747,288,2026-09-20,Oxalis 10
+624119158,289,2026-06-21,"zinc oxide, titanium dioxide"
+755948762,290,2023-12-08,Alcohol
+268361186,291,2026-01-26,Nitrofurantoin Monohydrate/Macrocrystalline
+910165917,292,2023-12-16,Methocarbamol
+416112537,293,2024-01-06,"Neomycin Sulfate, Polymyxin B Sulfate, Hydrocortisone"
+600454286,294,2024-07-16,Mycophenolate Mofetil
+177340691,295,2026-01-27,Levocetirizine Dihydrochloride
+009965737,296,2026-03-05,Oxybutynin Chloride
+620855559,297,2026-10-19,FERRIC PICRATE
+141543797,298,2025-01-07,Risperidone
+523227295,299,2026-04-23,paroxetine hydrochloride
+965747906,300,2026-09-10,lanthanum carbonate
+981961926,301,2024-09-05,bupropion hydrochloride
+757450627,302,2025-06-12,Doxycycline Hyclate
+935152809,303,2024-12-20,Benzoyl Peroxide
+915835577,304,2025-03-19,"Octinoxate, Octisalate"
+441185822,305,2024-06-18,Acetaminophen
+366438758,306,2025-10-06,Oxygen
+583635773,307,2025-09-29,"LEVOTHYROXINE, LIOTHYRONINE"
+840969340,308,2023-10-14,Diphenhydramine HCl
+288308703,309,2024-09-14,Bahia Grass
+082006827,310,2024-04-19,SERTRALINE HYDROCHLORIDE
+214386268,311,2024-01-25,Proparacaine Hydrochloride
+532460280,312,2025-06-29,Meclizine Hydrochloride
+721288285,313,2025-09-03,Hydrocortisone
+184382625,314,2024-02-12,OCTINOXATE
+423379152,315,2023-06-27,"PIPERACILLIN SODIUM,TAZOBACTAM SODIUM"
+351786839,316,2023-07-05,"Pyrogenium, Arsenicum alb.,Baptisia, Bryonia, Cinchona, Collinsonia, Iodium, Iris versicolor, Lachesis, Lycopodium, Nat. carb.,Nat.mur.,Nux vom., Phosphorus, Podoph. pelt., Pulsatilla, Rhus toxicodendron, Dioscorea, Echinacea, Urtica ur."
+568585882,317,2025-02-16,Ranitidine
+206188030,318,2025-09-20,ETHYL ALCOHOL
+881968555,319,2024-03-08,"Titanium Dioxide, Zinc Oxide"
+580045603,320,2024-09-29,Betamethasone Dipropionate
+606441459,321,2025-06-28,azithromycin
+573167508,322,2024-04-20,Phendimetrazine Tartrate
+678903697,323,2026-06-03,Aluminum Zirconium tetrachlorohydrex
+514659579,324,2026-08-25,"Octinoxate, Oxybenzone, Titanium Dioxide"
+286590024,325,2026-06-24,Tizanidine
+592165802,326,2023-08-30,Warfarin Sodium
+683034114,327,2025-08-12,Alprazolam
+077654368,328,2026-08-04,Tobacco Leaf
+538251545,329,2025-07-30,Prednisone
+976256188,330,2026-11-08,camphor and menthol
+026565470,331,2025-05-06,Diclofenac Sodium
+986981898,332,2025-12-14,Insulin human
+804842355,333,2025-12-31,metolazone
+033708655,334,2023-11-07,Diltiazem Hydrochloride
+144680805,335,2025-03-25,Red Cedar
+553910458,336,2024-07-14,BENZALKONIUM CHLORIDE
+993910849,337,2026-10-07,rabeprazole sodium
+256924845,338,2023-09-17,Treatment Set TS333312
+032255792,339,2026-11-08,Octinoxate and Titanium Dioxide
+522693104,340,2025-10-10,alcohol
+273245676,341,2024-09-08,DICYCLOMINE
+006646940,342,2026-01-05,pravastatin sodium
+533006567,343,2026-05-08,calcium carbonate
+111865628,344,2026-07-26,"acetaminophen, dextromethorphan hbr, guaifenesin, phenylephrine hcl"
+551768126,345,2025-03-10,Aspergillus fumigatus
+655818153,346,2024-09-26,"Antihemophilic Factor, Recombinant"
+616008194,347,2024-02-04,Cultivated Wheat
+477600971,348,2023-08-22,Menthol
+007424083,349,2025-07-14,LISINOPRIL AND HYDROCHLOROTHIAZIDE
+972458851,350,2023-08-15,Ibuprofen
+321350959,351,2024-05-13,Methocarbamol
+960686382,352,2023-06-12,Triclosan
+682406000,353,2024-04-05,Acetaminophen
+304877836,354,2024-11-04,American Beech
+535565180,355,2024-10-03,Magnesium hydroxide
+863978871,356,2025-03-07,Sulfacetamide Sodium
+871682682,357,2023-06-25,Allopurinol
+300885039,358,2026-01-24,Homosalate
+470474985,359,2025-06-04,Triclosan
+189498484,360,2023-05-14,rizatriptan benzoate
+868994439,361,2023-11-10,"Dextromethorphan HBr, Guaifenesin"
+366068769,362,2026-03-18,GUAIFENESIN and Phenylephrine Hydrochloride
+380549263,363,2026-04-23,TOPIRAMATE
+295573049,364,2023-10-24,Diphenhydramine HCl
+972456781,365,2025-10-03,spironolactone and hydrochlorothiazide
+054762799,366,2025-09-11,"butalbital, acetaminophen and caffeine"
+143808134,367,2025-08-22,Trolamine Salicylate
+594072501,368,2026-08-19,Sulfamethoxazole and Trimethoprim
+364679365,369,2024-03-22,"AVOBENZONE, OCTISALATE, OCTOCRYLENE"
+348742968,370,2023-06-23,Nitrogen
+345865563,371,2026-06-04,Pulmo Bryonia
+780616806,372,2025-10-31,Bipolaris sorokiniana
+408275059,373,2025-12-15,valganciclovir hydrochloride
+397883046,374,2023-07-01,Raloxifene Hydrochloride
+240012667,375,2025-11-10,TITANIUM DIOXIDE
+362931036,376,2023-10-07,Benzocaine and Menthol
+087934184,377,2026-04-19,"EUCALYPTOL, MENTHOL, METHYL SALICYLATE, THYMOL"
+397160887,378,2025-06-10,Baclofen
+702923560,379,2023-08-03,Diphenhydramine Hydrochloride
+034396112,380,2023-08-09,Diazepam
+762043249,381,2026-03-15,ETHYL ALCOHOL
+496923991,382,2025-04-05,Urea
+842511858,383,2025-08-20,Simethicone
+420708993,384,2025-01-18,WITCH HAZEL
+794134545,385,2025-04-25,Zinc Oxide
+322945462,386,2025-11-04,"TITANIUM DIOXIDE, ZINC OXIDE"
+609908224,387,2026-10-10,Loperamide Hydrochloride
+513703781,388,2026-08-25,Sulfamethoxazole and Trimethoprim
+971325099,389,2023-06-11,PETROLATUM
+133118001,390,2023-12-13,Mafenide Acetate
+566326592,391,2025-09-03,Salicylic Acid
+533835052,392,2024-11-03,Sulindac
+088824507,393,2025-09-01,desmopressin acetate
+450223615,394,2025-12-16,BUPIVACAINE HYDROCHLORIDE
+181321100,395,2025-04-17,Rocky Mountain Juniper
+227416068,396,2026-09-29,SILVER
+502997401,397,2024-01-15,Lisinopril
+336117979,398,2025-08-05,Alendronate Sodium
+016392011,399,2025-06-03,diazepam
+067087648,400,2024-04-05,Losartan potassium
+908759078,401,2025-11-30,Clonazepam
+276217883,402,2023-12-02,everolimus
+735203337,403,2024-04-14,Furosemide
+524858124,404,2024-01-20,Glyburide
+468695324,405,2024-05-05,diclofenac sodium
+796826353,406,2024-10-20,"Acetaminophen, Chlorpheniramine maleate, Phenylephrine HCl"
+692141586,407,2024-02-14,Nettle Pollen
+307285066,408,2026-05-14,FENOFIBRATE
+043422107,409,2025-02-23,"Avobenzone, Octinoxate, Octisalate, Oxybenzone"
+395858151,410,2024-09-17,Hydrochlorothiazide
+544884443,411,2025-03-14,ezetimibe and simvastatin
+235925303,412,2024-03-23,Thyreoidea Ferrum
+393459913,413,2023-08-29,"Antihemophilic Factor, Human Recombinant"
+869815217,414,2026-01-05,Tizanidine Hydrochloride
+706530781,415,2023-07-24,Valsartan and Hydrochlorothiazide
+117021614,416,2024-06-27,Salicylic Acid
+574342617,417,2023-05-22,LISINOPRIL
+187870940,418,2025-12-19,Amoxicillin and Clavulanate Potassium
+956102590,419,2023-10-10,Nicotine Polacrilex
+142086067,420,2023-12-24,Procainamide Hydrochloride
+462978025,421,2024-07-30,HORSE CHESTNUT EQUISETUM ARVENSE TOP HYPERICUM PERFORATUM GOLD MYRRH
+724502186,422,2025-02-09,cyclobenzaprine hydrochloride
+728908766,423,2024-03-05,levetiracetam
+187866213,424,2025-11-29,"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone"
+918361419,425,2023-08-25,"cocoa butter, phenylephrine HCl"
+174043293,426,2025-12-26,Homeopathic Liquid
+328597992,427,2026-10-24,Ephedrine Sulfate
+425321058,428,2024-02-29,TITANIUM DIOXIDE and OCTINOXATE
+604836280,429,2023-11-30,Lidocaine Hydrochloride
+710174003,430,2026-09-27,Aluminum Zirconium Trichlorohydrex Gly
+194093720,431,2024-10-02,Lorazepam
+001038533,432,2026-07-01,Rivastigmine Tartrate
+520723257,433,2023-09-14,"Avena sativa 3X, China officinalis 3X and Hydrastis canadensis 3X"
+987805587,434,2026-11-06,SULFUR
+528484613,435,2024-10-22,ropinirole hydrochloride
+530409536,436,2024-07-03,cyclobenzaprine hydrochloride
+448356405,437,2024-12-13,Isopropyl Alcohol
+694160005,438,2023-05-12,dextroamphetamine sulfate
+871103259,439,2025-11-10,TITANIUM DIOXIDE
+478530027,440,2026-11-12,Clemastine Fumarate
+687618227,441,2026-07-29,Simvastatin
+149558078,442,2025-03-24,Diphenhydramine HCl
+936580252,443,2023-12-07,Fentanyl
+816231569,444,2023-10-11,ASAFETIDA
+548061305,445,2026-11-22,miglitol
+252317834,446,2025-06-20,risperidone
+290007001,447,2026-01-10,Captopril
+067005564,448,2024-10-07,Losartan Potassium
+683527464,449,2025-01-19,Phentermine Hydrochloride
+619558565,450,2026-06-21,Lamivudine
+289196609,451,2024-09-07,Metronidazole
+010300366,452,2025-06-19,terbinafine hydrochloride
+789471470,453,2023-11-10,Repaglinide
+158142173,454,2026-10-05,"Allium cepa, Antimonium tartaricum, Arnica montana, Baptisia tinctoria, Eupatorium perfoliatum, Gelsemium sempervirens, Kali bichromicum, Lachesis mutus, Mercurius iodatus ruber, Sticta pulmonaria, Sulphur iodatum, Urtica urens"
+989724989,455,2026-10-30,"Ignatia, Kali phos, Nat sulphuricum, Staphysagria"
+175913864,456,2026-06-29,Gabapentin
+402036186,457,2023-07-18,TOLNAFTATE
+579339128,458,2025-05-18,Desoximetasone
+145835626,459,2025-07-19,Ranitidine
+701748027,460,2026-07-04,METFORMIN HYDROCHLORIDE
+382067685,461,2023-09-20,Octinoxate
+877004039,462,2026-01-06,ALUMINUM CHLOROHYDRATE
+239732932,463,2024-01-26,Atenolol
+721886112,464,2024-05-17,Salicylic acid
+838346432,465,2025-07-18,Oxygen
+423236277,466,2023-07-12,Niacin
+450860485,467,2026-08-10,"Acetaminophen, Diphenhydramine HCl"
+989023678,468,2025-05-19,Prednisone
+115392046,469,2026-07-28,Organoplex
+318861119,470,2025-12-15,"Potassium Chloride, Dextrose Monohydrate and Sodium Chloride"
+740669736,471,2023-11-18,TITANIUM DIOXIDE
+764316077,472,2026-10-18,Levothyroxine Sodium
+284927420,473,2024-04-24,Nicotine Polacrilex
+193494073,474,2025-08-18,regorafenib
+794808594,475,2026-04-07,Metronidazole
+170985663,476,2025-07-10,Candesartan Cilexetil
+523416445,477,2025-07-14,"Acetaminophen, Phenylephrine Hydrochloride, Doxylamine Succinate, and Dextromethorphan Hydrobromide"
+047915619,478,2024-11-03,Cetylpyridinium Chloride
+154114241,479,2025-10-18,Metformin Hydrochloride
+921968636,480,2026-02-18,Ondansetron Hydrochloride
+207570393,481,2026-05-20,strophanthus hispidus
+632833676,482,2025-10-15,DIGITALIS
+108072449,483,2024-07-26,Zinc oxide
+846064676,484,2023-07-02,LISINOPRIL AND HYDROCHLOROTHIAZIDE
+274665303,485,2023-07-22,Ondansetron Hydrochloride
+314220419,486,2025-08-17,titanium dioxide
+253963721,487,2023-08-15,not applicable
+258884246,488,2024-07-19,Fluconazole
+660340705,489,2023-08-30,Kapok
+792678655,490,2025-09-29,"Octinoxate, Octisalate, Octocrylene, and Zinc Oxide"
+515606219,491,2024-11-14,Ibuprofen (NSAID)
+641453385,492,2024-01-20,Aluminum Zirconium Tetrachlorohydrex GLY
+724567919,493,2023-09-12,Miconazole nitrate
+700092259,494,2024-02-21,ISOPROPYL ALCOHOL
+634308293,495,2023-10-30,Glyburide and Metformin Hydrochloride
+384261210,496,2023-08-05,Isopropyl Alcohol
+011657699,497,2026-09-02,"ENSULIZOLE, OCTINOXATE, and TITANIUM DIOXIDE"
+736831319,498,2024-11-05,Aluminum Zirconium Octachlorhydrex GLY
+837551920,499,2025-09-13,enoxaparin sodium
+406712439,500,2024-03-14,Sotalol Hydrochloride
+738286109,501,2024-12-02,CALCITONIN SALMON
+565047375,502,2023-07-17,Candesartan cilexetil
+650133477,503,2026-04-10,Carbon Dioxide-Oxygen Mixture
+846206192,504,2026-09-05,Titanium Dioxide and Octinoxate
+068671891,505,2023-12-08,"ACETAMINOPHEN, CHLORPHENIRAMINE MALEATE, DEXTROMETHORPHAN HYDROBROMIDE"
+982661328,506,2025-12-23,"ESTROGENS, CONJUGATED"
+875444237,507,2024-02-29,Oxygen
+472760307,508,2023-09-01,"ACETAMINOPHEN, CHLORPHENIRAMINE MALEATE, PHENYLEPHRINE HYDROCHLORIDE"
+121790142,509,2023-09-12,"phenylephrine hcl, brompheniramine maleate"
+862537727,510,2025-05-25,"Calcarea carbonica, Colocynthis, Cuprum aceticum, Lacticum acidum, Rhus toxicodendron, Secale cornutum, Veratrum album"
+198865944,511,2023-12-18,AMOXICILLIN AND CLAVULANATE POTASSIUM
+081687043,512,2025-04-10,"Sodium Fluoride, Vitamin A, Ascorbic Acid, Vitamin D, Alpha-Tocopherol, Thiamine, Riboflavin, Niacin, Pyridoxine, Folic Acid, and Cyanocobalamin"
+648728341,513,2026-04-13,"Oats, Common, Cultivated Avena sativa"
+399590325,514,2026-06-12,SODIUM MONOFLUOROPHOSPHATE and POTASSIUM NITRATE
+046175994,515,2025-03-26,benzoyl peroxide
+544920117,516,2023-11-02,Ibuprofen
+181788865,517,2023-07-30,DIMETHICONE
+193318884,518,2023-09-28,Sodium Fluoride
+033157716,519,2025-02-19,Isopropyl Alcohol
+371531125,520,2025-05-17,Simvastatin
+769100758,521,2024-08-25,Candida Albicans
+598410870,522,2023-07-05,dextromethorphan polistirex
+278029628,523,2025-05-27,Topiramate
+985232556,524,2026-04-17,benztropine mesylate
+653901311,525,2025-06-04,Pramoxine HCl / Hydrocortisone / Chloroxylenol
+346754034,526,2025-08-13,aspergillus niger var. niger
+663982419,527,2023-07-10,Dimethicone
+617776957,528,2026-11-28,Methylprednisolone
+940816993,529,2026-06-19,Colestipol Hydrochloride
+430166911,530,2026-10-30,Sertraline Hydrochloride
+344352186,531,2026-11-13,"Sarsaparilla, UvaUrsi, Arsenicum Album, Cantharis, Pareira Brava, Pulsatilla, Sepia, Terebinthina, Populus Tremuloides"
+520734861,532,2025-07-28,Amoxicillin
+929777173,533,2023-05-17,Metformin Hydrochloride
+639754197,534,2025-01-16,METOPROLOL SUCCINATE
+270516265,535,2023-08-04,"ACETAMINOPHEN, CHLORPHENIRAMINE MALEATE, DEXTROMETHORPHAN HYDROBROMIDE"
+061071288,536,2024-03-14,divalproex sodium
+887688408,537,2024-10-30,ZINC OXIDE
+006657119,538,2026-07-24,P32 Sodium Phosphate
+107919773,539,2024-06-11,Oxygen
+244082806,540,2026-03-10,"Titanium Dioxide, Zinc Oxide"
+182895256,541,2024-02-13,"Homosalate, Octisalate, Oxybenzone, Avobenzone"
+059060756,542,2023-12-01,Nortriptyline Hydrochloride
+924365917,543,2026-07-29,Cetirizine Hydrochloride
+468634068,544,2025-05-21,Russian Olive
+511122021,545,2025-05-30,Furosemide
+941171450,546,2024-09-28,Aluminum Zirconium Tetrachlorohydrex GLY
+072840226,547,2023-05-10,Anticavity Toothpaste
+952766888,548,2026-04-23,"Butalbital, Acetaminophen, and Caffeine"
+682982478,549,2026-09-19,Bryophyllum Argentum
+656576166,550,2025-07-14,Captopril
+380798255,551,2024-05-09,Naproxen Sodium
+346571535,552,2024-04-13,prilocaine hydrochloride and epinephrine bitartrate
+661516521,553,2025-09-01,Benzocaine and Menthol
+007237540,554,2024-06-02,Isosorbide mononitrate
+546655684,555,2025-08-15,Treatment Set TS331579
+944772854,556,2024-10-31,Nitrofurantoin Macrocrystals
+123954151,557,2023-12-22,MENTHOL
+161573245,558,2025-05-07,nicotine polacrilex
+884207256,559,2025-03-17,Chlordiazepoxide Hydrochloride
+444600955,560,2025-02-18,Methocarbamol
+170456330,561,2024-01-18,"PASSIFLORA INCARNATA, VALERIANA OFFICINALIS, AVENA SATIVA, CUPRUM ACETICUM, HYOSCYAMUS NIGER"
+618299200,562,2024-04-29,Desonide
+959722171,563,2025-01-24,etodolac
+454521554,564,2026-10-14,Clonazepam
+837262782,565,2025-12-14,BENZALKONIUM CHLORIDE
+840348332,566,2026-07-09,lidocaine hydrochloride anhydrous and epinephrine
+199593614,567,2026-09-30,GABAPENTIN
+118669273,568,2024-12-12,carbamazepine
+646229041,569,2024-03-19,Triclosan
+221186084,570,2024-10-15,"Octinoxate, Oxybenzone, and Titanium Dioxide"
+222914138,571,2026-04-04,Sennosides
+981570801,572,2025-10-28,SALICYLIC ACID
+221836341,573,2026-03-16,Titanium Dioxide
+530546931,574,2026-05-29,Ibuprofen
+195593635,575,2024-03-26,Hydrochlorothiazide
+053337034,576,2025-02-23,Sotalol hydrochloride
+490726322,577,2024-02-23,Guaifenesin
+272848068,578,2024-04-29,Metformin Hydrochloride
+081265360,579,2024-04-02,Corn Pollen
+307318438,580,2023-11-23,Guaifenesin/phenylephrine
+495221026,581,2024-07-31,isosorbide mononitrate
+439796188,582,2026-05-02,glipizide
+561699208,583,2026-05-14,Acetaminophen
+853205050,584,2026-07-30,amoxicillin
+783720740,585,2024-10-12,Magesium Citrate
+810188308,586,2025-09-18,Rizatriptan Benzoate
+934160346,587,2023-10-28,"Chamomilla, Echinacea, Hamamelis virginiana, Hypericum perforatum, Millefolium, Bryonia, Calendula officinalis, Arnica montana,"
+191383296,588,2024-07-14,Pseudoephedrine HCl
+583148825,589,2026-08-10,"Acetaminophen, Diphenhydramine HCl"
+657332726,590,2024-08-05,Losartan Potassium
+577367903,591,2024-04-26,Aurum Hypericum Stibium Special Order
+711739110,592,2025-06-10,chlorothiazide sodium
+982896495,593,2026-01-25,Lansoprazole
+081930946,594,2023-10-21,Chlorpromazine Hydrochloride
+327219399,595,2025-02-19,"ibuprofen, pseudoephedrine HCl"
+822764365,596,2025-11-20,"Naphazoline hydrochloride, Polysorbate 80"
+377600029,597,2025-08-26,amlodipine besylate and atorvastatin calcium
+941340343,598,2025-10-14,Aluminum Zirconium Tetrachlorohydrex Gly
+314479087,599,2025-11-20,LIDOCAINE HYDROCHLORIDE ANHYDROUS and EPINEPHRINE
+373714409,600,2026-01-14,"Dextrose Monohydrate, Sodium Chloride, Sodium Lactate, Calcium Chloride, Magnesium Chloride"
+013785184,601,2026-11-29,ALPRAZOLAM
+226924350,602,2023-10-08,TITANIUM DIOXIDE and ZINC OXIDE
+393056180,603,2023-11-10,Famotidine
+156660778,604,2026-06-11,Ipratropium Bromide
+784747874,605,2025-12-17,oxymorphone hydrochloride
+566558152,606,2026-06-27,Ethyl Alcohol
+116946406,607,2024-04-03,Lidocaine Hydrochloride
+359804411,608,2023-09-09,ACETAMINOPHEN
+632040782,609,2025-02-18,nicotine
+798364187,610,2024-04-14,Loperamide Hydrochloride
+853280603,611,2024-12-29,calcium carbonate
+679385217,612,2025-11-04,warfarin sodium
+643460367,613,2025-08-15,Benzalkonium chloride 0.13%
+653522542,614,2023-12-23,OCTINOXATE and TITANIUM DIOXIDE
+878479006,615,2024-11-01,dalteparin sodium
+675966596,616,2026-06-03,Guaifenesin/phenylephrine
+231448926,617,2024-09-03,Bisacodyl
+881634196,618,2026-07-29,Alcohol
+337814363,619,2026-12-01,Flecainide
+351789583,620,2023-08-07,imatinib mesylate
+301921095,621,2026-04-18,Aluminum Zirconium Tetrachlorohydrex GLY
+141351100,622,2024-11-01,"acetaminophen, dextromethorphan hydrobromide and doxylamine succinate"
+617514333,623,2025-04-25,diphenhydramine hydrochloride
+837637744,624,2024-07-06,Ibuprofen
+718010979,625,2025-03-23,Menthol
+417778697,626,2023-09-21,Levisticum Quercus
+610528476,627,2025-06-05,"butalbital, acetaminophen and caffeine"
+793259867,628,2024-11-17,Sulfur
+853690361,629,2025-10-23,norethindrone and ethinyl estradiol
+243521824,630,2025-08-28,ALLANTOIN GLYCERIN
+131827375,631,2023-12-28,lorazepam
+768095717,632,2025-10-24,Ibuprofen
+054727150,633,2024-01-26,Alprazolam
+622420700,634,2024-07-30,"Acetaminophen, Dextromethorphan HBr, Doxylamine succinate"
+670085553,635,2024-10-30,Menthol
+318157860,636,2026-10-12,"Uricum acidum, Benzoicum acidum, Berber. vulg., Bryonia, Cantharis, Carduus benedictus, Ceanothus, Chelidonium majus, Chionanthus virginica, Cinchona, Dioscorea, Dolichos, Iris versicolor, Juniperus com., Nux vom.,Ptelea,Taraxacum, Carduus mar., Cynara scolymus, Solidago,Taraxacum"
+188576665,637,2025-09-26,"Carbidopa, levodopa and entacapone"
+815403958,638,2025-12-11,Lidocaine Hydrochloride
+895536200,639,2025-02-23,ampicillin sodium
+940739144,640,2024-11-05,Octinoxate and Oxybenzone
+256126971,641,2025-07-16,Hydrocodone Bitartrate and Homatropine Methylbromide
+415039239,642,2026-05-01,HYPROMELLOSE 2208 (15000 MPA.S)
+552028297,643,2025-12-13,Moexipril Hydrochloride
+020543662,644,2025-06-08,"Octinoxate, Octisalate, and Titanium Dioxide"
+350073340,645,2025-06-22,"Acetaminophen, Aspirin, Caffeine"
+301987717,646,2025-07-06,"Diphenhydramine HCl, Phenylephrine HCl"
+921863247,647,2025-05-21,Fludeoxyglucose F18
+421780468,648,2025-05-20,Paroxetine Hydrochloride
+175366262,649,2024-11-17,losartan potassium
+949898821,650,2023-10-12,Triclosan
+672691165,651,2023-06-09,Somatropin
+614246212,652,2023-12-02,"Piperonyl butoxide, Pyrethrum extract"
+166264128,653,2024-10-07,METHADONE HYDROCHLORIDE
+717954155,654,2024-09-04,Sulfacetamide Sodium
+302654258,655,2024-09-26,"Chromium GTF, Hypothalamus, Human chorionic gonadotropin, Garcinia cambogia,"
+377074242,656,2024-05-21,Trihexyphenidyl Hydrochloride
+669128564,657,2024-04-20,ZINC OXIDE
+417209480,658,2023-06-12,BENZALKONIUM CHLORIDE
+738958359,659,2025-12-30,amoxicillin
+249348983,660,2024-07-14,EUTROCHIUM PURPUREUM ROOT
+632112658,661,2025-06-15,Sodium Chloride
+462789635,662,2024-04-25,"ISOLEUCINE, LEUCINE, LYSINE ACETATE, METHIONINE, PHENYLALANINE, THREONINE, TRYPTOPHAN, VALINE, ALANINE, ARGININE, HISTIDINE, PROLINE, SERINE, TYROSINE, GLYCINE, SODIUM CHLORIDE, MAGNESIUM CHLORIDE, SODIUM PHOSPHATE, DIBASIC, and POTASSIUM CHLORIDE"
+697708147,663,2024-07-25,Tamsulosin Hydrochloride
+612271541,664,2026-03-01,isosorbide dinitrate
+663670164,665,2026-04-19,Aluminum Sesquichlorohydrate
+574710506,666,2025-05-19,Tizanidine Hydrochloride
+406974187,667,2026-04-27,TRICLOSAN
+381710745,668,2025-10-04,Lisinopril and Hydrochlorothiazide
+348155644,669,2026-05-23,Aminophylline Dihydrate
+774052806,670,2026-06-16,Quinapril HCl and Hydrochlorothiazide
+252784361,671,2026-06-01,Chlorhexidine Gluconate and Isopropyl Alcohol
+531133403,672,2023-08-31,Loxapine Succinate
+444620953,673,2026-11-03,Dimethicone Petrolatum
+638196634,674,2024-06-02,Erythropoietin
+007887225,675,2023-12-11,BACITRACIN
+296818204,676,2023-10-31,TITANIUM DIOXIDE
+219971742,677,2025-04-24,"Dextromethorphan Hydrobromide, Guaifenesin, Phenylephrine Hydrochloride"
+197856099,678,2026-01-30,Probenecid
+220565949,679,2025-01-28,Ethyl Alcohol
+521811587,680,2023-09-06,Doxycycline Hyclate
+904465951,681,2024-03-18,delavirdine mesylate
+729166904,682,2024-11-30,clonazepam
+443654074,683,2025-03-25,Diazepam
+879455725,684,2023-12-21,"ISOLEUCINE, LEUCINE, LYSINE ACETATE, METHIONINE, PHENYLALANINE, THREONINE, TRYPTOPHAN, VALINE, ALANINE, ARGININE, ASPARTIC ACID, GLUTAMIC ACID, GLYCINE, HISTIDINE, PROLINE, SERINE, TAURINE, and TYROSINE"
+102316348,685,2024-04-11,Acetaminophen
+084309442,686,2026-07-17,tizanidine hydrochloride
+301451652,687,2026-11-02,metronidazole
+804226105,688,2026-01-25,verapamil hydrochloride
+458951907,689,2026-05-27,DIPHENHYDRAMINE
+447004004,690,2026-07-14,Zafirlukast
+162168363,691,2026-04-21,METFORMIN HYDROCHLORIDE
+296273915,692,2023-10-21,Miconazole Nitrate
+881036405,693,2024-08-24,Propranolol Hydrochloride
+643642453,694,2026-05-07,Sodium Fluoride
+239614971,695,2025-08-08,fluoxetine hydrochloride
+478393829,696,2024-06-19,Eucalyptus
+764134102,697,2026-08-18,fexofenadine hydrochloride
+783830341,698,2026-09-11,ETHYL ALCOHOL
+637376417,699,2026-11-20,PANAX GINSENG FRUIT
+440840318,700,2026-10-28,Acetaminophen
+070119262,701,2024-04-23,EUCALYPTOL
+330658488,702,2023-10-07,Salicylic Acid
+750091621,703,2026-02-19,not applicable
+948108816,704,2026-02-12,Silver Sulfadiazine
+237383298,705,2023-06-04,SODIUM MONOFLUOROPHOSPHATE
+842310762,706,2025-02-14,"Echinacea (Angustifolia), Phytolacca decandra, Boldo, Pinus sylvestris, Thyroidinum (suis), Germanium sesquioxide, Arnica montana, Calcarea iodata,"
+059398793,707,2023-11-12,Benzonatate
+829294562,708,2026-10-11,Fentanyl Citrate
+093051746,709,2025-02-17,Octinoxate and Oxybenzone
+789619460,710,2025-11-24,APIS MELLIFERA - ARALIA RACEMOSA ROOT - ASCORBIC ACID - BLACK CURRANT - COPPER - EUPHORBIA RESINIFERA RESIN - EUROPEAN ELDERBERRY - HELIANTHEMUM CANADENSE - HISTAMINE DIHYDROCHLORIDE - HUMAN INTERLEUK
+954983353,711,2026-09-07,Ibuprofen
+531474975,712,2026-11-21,PACLITAXEL
+034669149,713,2026-07-29,"Guaifenesin, Dextromethorphan, Phenyphrine Hydrchloride"
+072311676,714,2023-09-01,Methocarbamol
+022602250,715,2023-12-16,Instant Hand Sanitizer
+282486494,716,2026-04-03,CEFTAZIDIME
+106283626,717,2025-12-22,Salicylic Acid
+353530697,718,2025-08-26,PYRITHIONE ZINC
+247444974,719,2023-11-15,Metformin Hydrochloride
+087226289,720,2025-03-19,diazepam
+650981989,721,2025-10-05,ALCOHOL
+930211387,722,2025-06-02,Nitrogen
+299505707,723,2024-05-02,Diltiazem Hydrochloride
+233731308,724,2023-11-24,Acetaminophen
+982881426,725,2024-03-12,"Bacitracin, Neomycin, Polymyxin B, Pramoxine HCl"
+630143383,726,2023-07-19,Orris Root
+690199321,727,2025-01-21,ribavirin
+559479080,728,2025-10-08,benztropine mesylate
+035773984,729,2025-03-28,Naproxen
+351273649,730,2026-03-27,treprostinil
+747618674,731,2024-05-06,Benzocaine
+276445310,732,2025-06-21,acetaminophen and codeine phosphate
+787487619,733,2023-06-25,Botrytis cinerea
+439767578,734,2026-04-14,POVIDONE-IODINE
+993876285,735,2026-03-05,ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY
+732625370,736,2024-04-04,Nicotine Polacrilex
+200422551,737,2024-08-23,SODIUM MONOFLUOROPHOSPHATE
+706740767,738,2024-08-17,Glycopyrrolate
+276277324,739,2026-06-12,"Cardiospermum 6X, Galphimia glauca 6X, Luffa operculata 6X, Sabadilla 6X"
+129974459,740,2026-03-09,ALCOHOL
+943367290,741,2025-02-04,CETRARIA ISLANDICA
+879354659,742,2024-09-09,Hydrocortisone
+450517413,743,2024-12-07,"Barium carbonate, Atropa belladonna, Nitroglycerin, Lycopus virginicus, Strychnos nux-vomica seed, Lead"
+374063365,744,2026-11-12,Dimethicone
+474577073,745,2024-08-09,RISPERIDONE
+201491549,746,2025-04-25,clobazam
+898846360,747,2025-02-16,"dimethicone, octinoxate, octisalate, oxybenzone"
+891749276,748,2024-02-15,bismuth subsalicylate
+236926246,749,2024-07-12,macitentan
+671060369,750,2026-02-04,Water
+939993322,751,2026-06-08,DOCUSATE SODIUM
+796747214,752,2024-12-31,Cows Milk
+244459703,753,2026-01-10,Triclocarban
+064951219,754,2025-04-09,acetaminophen
+459273122,755,2023-12-06,albuterol sulfate
+530592844,756,2025-06-12,"DEXTROMETHORPHAN HYDROBROMIDE, PHENYLEPHRINE HYDROCHLORIDE"
+761445355,757,2024-11-07,Sodium Fluoride
+956586472,758,2024-02-25,"Dexamethasone Sodium Phosphate, Povidine Iodine"
+323144070,759,2023-09-09,ALUMINUM CHLOROHYDRATE
+565967095,760,2024-06-28,Gabapentin
+759527975,761,2023-05-27,"Octinoxate, Titanium Dioxide, and Zinc Oxide"
+058175943,762,2024-01-05,Benztropine Mesylate
+052821213,763,2023-10-20,Misoprostol
+965174499,764,2026-08-12,Glycerin
+444538607,765,2023-08-17,HYDRALAZINE HYDROCHLORIDE
+109774057,766,2025-02-14,Dexamethasone
+422497966,767,2025-12-29,calcium carbonate
+631814742,768,2024-01-18,Piroxicam
+380245897,769,2023-10-16,metolazone
+285767387,770,2024-10-09,Nicotine Polacrilex
+551166990,771,2023-05-21,SODIUM FLUORIDE
+636775744,772,2025-11-11,"Cor, Small Intestine, Germanium Sesquioxide, Cobaltum Metallicum, Cysteinum, Manganum Metallicum, Manganum Gluconicum"
+793364240,773,2025-11-25,isotretinoin
+322855071,774,2023-08-06,Brompheniramine maleate and Pseudoephedrine hydrochloride
+291240191,775,2025-05-30,repaglinide
+422122940,776,2024-11-17,sumatriptan
+432075494,777,2024-05-28,"Apis mellifica, Arsenicum album, Borax, Capsicum annuum, Graphites, Mentha piperita, Mezereum, Natrum muriaticum, Nux vomica, Petroleum, Ranunculus bulbosus, Rhus toxicodendron"
+321201447,778,2026-08-03,TRICLOSAN
+851377850,779,2026-01-30,Flurbiprofen Sodium
+533608456,780,2025-01-12,"Adrenalinum, Aloe, Arsenicum alb., Baptisia, Berber. Aqui., Berber. vulg., Bryonia, Chelidonium majus, Crotalus horridus, Digitalis, Ferrum metallicum, Glonoinum, Glycyrrhiza glabra , Hydrocotyle, Iodium, Iris versicolor, Lachesis, Lycopodium, Nat. mur., Nux vom., Rhus toxicodendron, Ruta, Thuja occ., Thyroidinum, Echinacea, Lappa, Solidago, Taraxacum"
+011342502,781,2026-04-11,Bupropion Hydrochloride
+768336166,782,2025-12-09,"Methyl Salicylate, Menthol, capsaicin"
+004507179,783,2025-08-26,Calcium carbonate and Magnesium hydroxide
+374060302,784,2025-07-08,robinia pseudoacacia pollen
+399306809,785,2025-10-04,Benzocaine
+281009995,786,2025-04-13,"OCTINOXATE, TITANIUM DIOXIDE"
+739178323,787,2025-07-23,Polyethylene Glycol 3350
+535324973,788,2025-08-04,ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY
+283508008,789,2024-02-26,MENTHOL
+811252291,790,2025-05-31,Human Rabies Virus Immune Globulin
+703036649,791,2024-03-08,diphenhydramine hydrochloride
+226241193,792,2025-09-10,HYDROQUINONE
+078595189,793,2026-10-23,CARBIDOPA AND LEVODOPA
+688108537,794,2023-11-09,Tretinoin
+648190655,795,2025-12-19,Esomeprazole strontium
+298996133,796,2025-04-30,SULFUR
+510241351,797,2026-08-24,NITROGEN
+087843148,798,2026-02-01,"GLYCERIN, ISOLEUCINE, LEUCINE, LYSINE, METHIONINE, PHENYLALANINE, THREONINE, TRYPTOPHAN, VALINE, ALANINE, GLYCINE, ARGININE, HISTIDINE, PROLINE, SERINE, CYSTEINE, SODIUM ACETATE, MAGNESIUM ACETATE, CALCIUM ACETATE, SODIUM CHLORIDE, POTASSIUM CHLORIDE, PHOSPHORIC ACID, and POTASSIUM METABISULFITE"
+851631466,799,2026-01-08,Phentermine Hydrochloride
+787109416,800,2024-09-12,morphine sulfate
+812827808,801,2024-12-21,Clomipramine Hydrochloride
+319724994,802,2023-12-27,"Dimethicone, Octinoxate, Oxybenzone, Avobenzone, and Octocrylene"
+292371680,803,2023-08-09,"Abies nigra, Antimonium crudum, Asafoetida, Baptisia tinctoria, Borax, Candida albicans, Lachesis mutus, Phosphoricum acidum, Phytolacca decandra, Pulsatilla, Sticta Plumonaria, Sulphur, Thuja occidentalis"
+462450462,804,2025-06-04,Metformin Hydrochloride
+257595448,805,2026-09-27,"TITANIUM DIOXIDE, OCTINOXATE, ZINC OXIDE"
+625116065,806,2023-07-26,Naphazoline hydrochloride and Pheniramine Maleate
+095107157,807,2023-07-18,glipizide
+507228121,808,2026-02-04,Valproic Acid
+751418042,809,2025-07-02,Losartan Potassium
+420254822,810,2026-03-19,Ampicillin sodium and Sulbactam sodium
+838429757,811,2025-11-13,"Echinacea, Hydrastis canadensis, Tabebuia impetiginosa, Glandula suprarenalis suis, Thymus, Thyroidinum, Arsenicum album, Bryonia, Cocculus indicus, Colchicum autumnale, Ledum palustre,"
+491259598,812,2025-07-30,Hydrochlorothiazide
+385853673,813,2026-07-22,Oxytocin
+024609555,814,2025-12-05,Penicillium notatum
+859620438,815,2026-03-27,Octinoxate and Titanium dioxide
+540457599,816,2026-04-23,ALCOHOL
+383842170,817,2026-09-03,"Acetaminophen, Diphenhydramine HCl, Phenylephrine HCl"
+345919130,818,2025-01-18,Carbamazepine
+214401318,819,2026-10-30,Cockroach American
+234243796,820,2024-02-19,ambrosia artemisiifolia pollen
+732739496,821,2024-03-26,Sodium Fluoride
+215446380,822,2024-12-27,propionibacterium acnes
+299250212,823,2024-11-14,"DIMETHICONE, ZINC OXIDE, OCTINOXATE"
+494849949,824,2024-07-21,ENALAPRIL MALEATE
+353971721,825,2024-03-22,"Avobenzone, Octisalate, and Octocrylene"
+232237912,826,2026-01-03,FLURBIPROFEN
+892274160,827,2024-02-16,ibuprofen
+583687604,828,2024-05-26,"TITANIUM DIOXIDE, OCTINOXATE"
+347084923,829,2024-04-29,menthol
+383661878,830,2023-11-26,Povidone Iodine
+360141032,831,2024-03-21,sulfamethoxazole and Trimethoprim
+460156271,832,2025-01-16,granisetron hydrochloride
+155383766,833,2025-06-06,ibuprofen
+027671933,834,2024-11-29,Oxygen
+059420485,835,2026-07-23,ALCOHOL
+506901209,836,2025-12-24,"Adrenalinum, Agaricus muscarius, Aloe socotrina, Bovista, Calcarea carbonica, Carpinus betulus, flos, Chelidonium majus, Cocculus indicus, Helonias dioica, Hydrofluoricum acidum, Kali phosphoricum, Mimosa pudica, Rosmarinus officinalis, Sulphur, Tanacetum vulgare, Taraxacum officinale, Tropaeolum majus"
+645180185,837,2023-10-17,Virginia Live Oak
+900342668,838,2025-04-23,dichlorphenamide
+099695701,839,2026-11-28,menthol
+067775255,840,2026-10-14,temazepam
+823343976,841,2024-12-21,Bismuth Subsalicylate
+109779056,842,2025-12-25,paroxetine hydrochloride
+450191425,843,2026-10-25,Acremonium strictum
+802737264,844,2024-11-01,Nicotine Polacrilex
+707173523,845,2026-07-23,Arnica Stannum
+030183647,846,2025-05-25,"Phenobarbital, Hyoscyamine Sulfate, Atropine Sulfate, Scopolamine Hydrobromide"
+830100620,847,2025-09-09,Salicylic Acid
+146894419,848,2025-05-14,Pramipexole Dihydrochloride
+684263612,849,2024-01-18,Bismuth Subsalicylate
+823336172,850,2025-06-26,HYDROCORTISONE
+713186695,851,2026-11-15,"Cochlearia Armoracia, Toxoplasma Gondii, Vibrio Cholerae, Candida Albicans, Trichinella Spiralis"
+625656276,852,2026-04-05,TITANIUM DIOXIDE
+902661820,853,2026-01-19,Nitrofurantoin (monohydrate/macrocrystals)
+237085276,854,2026-03-05,Guaifenesin Dextromethorphan
+932001795,855,2023-11-13,Benzocaine
+348446207,856,2026-10-17,Phentermine Hydrochloride
+245537614,857,2025-12-27,"Dextromethorphan HBr, Guaifenesin"
+256113567,858,2025-10-07,Acetaminophen
+903102846,859,2026-11-16,beclomethasone dipropionate
+314555384,860,2024-02-21,Acetaminophen and Diphenhydramine Hydrochloride
+048581812,861,2026-06-09,TITANIUM DIOXIDE and ZINC OXIDE
+115564535,862,2024-12-09,AESCULUS GLABRA
+696531038,863,2024-02-28,Levofloxacin
+230030259,864,2026-02-02,SODIUM MONOFLUOROPHOSPHATE
+057950543,865,2023-05-17,Triclosan
+363285920,866,2025-05-03,Methylphenidate Hydrochloride
+480310975,867,2025-07-19,"OCTINOXATE, OCTISALATE, AVOBENZONE"
+405229111,868,2023-05-23,Telmisartan
+715763311,869,2025-10-08,AMITRIPTYLINE HYDROCHLORIDE
+071022496,870,2023-12-22,Hydrocodone Bitartrate and Acetaminophen
+359741827,871,2024-11-29,simvastatin
+270290647,872,2026-07-06,Berberis e fruct. 10% Special Order
+329117270,873,2023-08-16,Salicylic acid
+140735068,874,2025-12-23,Ragweed Tall Giant
+487594033,875,2024-07-11,"DNA, RNA, Sabal serrulata, Cortisol (hydrocortisone), Glandula suprarenalis, Hypothalamus, Pituitary, Testosterone, Chelidonium majus, Thuja occidentalis,"
+067704583,876,2025-05-21,"Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride"
+189415270,877,2025-08-27,Ibuprofen
+843065065,878,2025-06-29,CIPROFLOXACIN
+413042579,879,2025-03-27,Sumatriptan Succinate
+184998004,880,2024-04-18,Gaba
+833591919,881,2025-10-04,Acetaminophen
+352759515,882,2026-06-27,TITANIUM DIOXIDE
+651882768,883,2024-02-20,Zinc Oxide
+447248182,884,2026-11-26,"Acetaminophen, Dextromethorphan HBr, Doxylamine succinate, Phenylephrine HCl"
+942775072,885,2024-07-07,risperidone
+692255584,886,2024-09-27,ALCOHOL
+873980044,887,2026-06-19,BENZALKONIUM CHLORIDE
+283618692,888,2026-03-23,Carvedilol
+618712154,889,2025-05-13,oxycodone and acetaminophen
+591795832,890,2023-08-12,Acetaminophen and Phenylephrine HCl
+369960881,891,2023-08-21,azithromycin
+404993850,892,2025-10-03,HORSE EPITHELIA
+808291925,893,2025-11-30,Duloxetine Hydrochloride
+059517666,894,2025-04-08,Phenol
+329921282,895,2026-08-22,"phenylephrine hcl, brompheniramine maleate"
+660485790,896,2024-06-08,Miconazole Nitrate
+183793596,897,2026-08-01,CAFFEINE CITRATE
+064194722,898,2025-04-20,SALICYLIC ACID
+788937913,899,2024-04-07,Enalapril Maleate
+450501103,900,2025-02-26,"Aluminum Hydroxide, Magnesium Hydroxide, Simethicone"
+815729302,901,2026-09-26,Risperidone
+986192204,902,2023-07-02,hydralazine hydrochloride
+898158823,903,2026-03-20,"Ensulizole, Octinoxate, Titanium Dioxide"
+208125409,904,2026-01-09,Testosterone Cypionate
+856098629,905,2023-10-28,lomustine
+668751312,906,2025-08-01,ropinirole hydrochloride
+616868812,907,2025-06-26,Duloxetine hydrochloride
+989565747,908,2025-11-20,piperacillin sodium and tazobactam sodium
+332195078,909,2026-10-26,methylprednisolone acetate
+536463108,910,2025-01-22,"OCTINOXATE, OXYBENZONE, OCTISALATE"
+283806619,911,2025-12-26,"Influenzinum , Bacillinum , Gelsemium , Lactose"
+226878854,912,2026-07-19,"Methyl Salicylate, Camphor, Menthol"
+822079565,913,2025-10-23,Carvedilol
+463248783,914,2026-05-31,Levothyroxine Sodium
+750955693,915,2026-04-26,Fluoxetine
+334266069,916,2023-09-21,lisinopril
+561918321,917,2026-05-13,enoxaparin sodium
+545592400,918,2025-05-11,clonazepam
+331342698,919,2025-06-10,cyclobenzaprine hydrochloride
+762768698,920,2024-09-17,Colloidal Oatmeal
+923861609,921,2026-11-24,Phenol
+130052304,922,2025-07-18,"Antipyrine, Benzocaine"
+310585250,923,2023-06-15,DOBUTAMINE HYDROCHLORIDE
+936064529,924,2025-04-11,Hops
+576707617,925,2024-09-16,HYDROCODONE BITARTRATE AND ACETAMINOPHEN
+996781590,926,2024-10-24,Betula fontinalis
+736280156,927,2025-03-15,Triclosan
+879861237,928,2026-04-24,Montelukast Sodium
+273474885,929,2025-10-20,Sodium Fluoride
+818659113,930,2025-12-02,CAFFEINE CITRATE
+356435173,931,2023-12-07,BIOTIN
+415618226,932,2026-11-30,Cisplatin
+473624244,933,2024-02-16,DEXTROSE MONOHYDRATE
+268015046,934,2024-07-22,Hydrochlorothiazide
+404713519,935,2025-09-03,OCTINOXATE OCTISALATE ALUMINUM HYDROXIDE
+678148172,936,2025-04-19,ASIAN GINSENG
+509171698,937,2025-09-26,OCTINOXATE
+044188525,938,2024-09-13,Aspirin
+012702578,939,2026-09-21,omeprazole
+490624525,940,2024-07-05,"AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE, OXYBENZONE"
+709049958,941,2026-07-11,ACETAMINOPHEN
+070815529,942,2025-05-12,Quercus dumosa
+693838945,943,2024-06-20,TITANIUM DIOXIDE
+961161723,944,2023-12-06,Benzalkonium Chloride
+349238937,945,2025-10-01,ciprofloxacin
+950058767,946,2024-12-02,diclofenac potassium
+174369167,947,2024-02-25,Berberis Prunus
+841200747,948,2025-05-16,OCTINOXATE
+064899124,949,2026-09-21,Warfarin Sodium
+313830097,950,2024-01-03,Ketoconazole
+267474774,951,2024-07-13,"China officinalis, Ferrum Phosphoricum and Medicago Sativa"
+151001402,952,2023-12-09,penicillin G potassium
+937024577,953,2026-04-24,vardenafil hydrochloride
+890690912,954,2024-05-30,C Mold Mixture
+536464773,955,2024-12-05,SODIUM FLUORIDE
+712980260,956,2024-12-16,SODIUM FLUORIDE
+031755297,957,2024-04-15,"Acetaminophen, Aspirin and caffeine"
+007642544,958,2025-06-25,Ciclopirox Olamine
+915455891,959,2024-04-05,Amoxicillin and Clavulanate Potassium
+750414673,960,2023-11-12,Benzalkonium chloride
+760268695,961,2023-11-10,oxcarbazepine
+925921318,962,2023-12-06,ciprofloxacin
+956873406,963,2026-04-30,Chloroxylenol
+812231915,964,2024-08-14,"Acetaminophen, Aspirin and caffeine"
+242923563,965,2025-04-16,Hydrocodone bitartrate and acetaminophen
+031715082,966,2023-11-23,montelukast sodium
+597002051,967,2024-12-04,PETROLATUM
+113008682,968,2024-11-14,Loxapine
+158992084,969,2026-02-18,"cholecalciferol, .alpha.-tocopherol succinate, d-, thiamine mononitrate, riboflavin, niacinamide, pyridoxine hydrochloride, folic acid, cyanocobalamin, biotin, calcium pantothenate, iron sucrose, heme iron polypeptide, potassium iodide, zinc oxide, sodium selenate and copper gluconate"
+449394670,970,2024-07-12,"Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride"
+480307190,971,2025-12-02,Oxygen
+521828411,972,2023-12-28,Ketoprofen
+220761538,973,2025-10-26,Navy Beans
+335602087,974,2024-08-23,Bacitracin Zinc and Polymyxin B Sulfate
+667370992,975,2026-10-24,Zoledronic Acid
+020421651,976,2024-12-20,Lisinopril
+742728093,977,2023-05-19,Triclosan
+531845984,978,2024-10-22,"Dextromethorphan Hydrobromide, Doxylamine Succinate"
+000685380,979,2026-05-14,Zonisamide
+367454692,980,2024-12-31,Benzocaine
+656387200,981,2023-08-20,Amlodipine Besylate and Benazepril Hydrochloride
+336429762,982,2024-03-01,"efavirenz, emtricitabine, and tenofovir disoproxil fumarate"
+163025285,983,2026-03-12,Ondansetron
+185348423,984,2023-10-30,Dimethicone
+871160088,985,2025-01-18,ciprofloxacin hydrochloride
+617307035,986,2026-03-30,Idarubicin Hydrochloride
+349959895,987,2026-07-09,rizatriptan benzoate
+428050207,988,2023-07-20,Ragweed. Western Ambrosia psilostachya
+681622403,989,2024-07-15,TRIBULUS TERRESTRIS ROOT
+241319331,990,2024-01-08,norgestimate and ethinyl estradiol
+619804229,991,2025-01-09,Doxazosin Mesylate
+220877674,992,2023-06-20,"INFLUENZA A VIRUS A/BRISBANE/10/2010 (H1N1) ANTIGEN (MDCK CELL DERIVED, PROPIOLACTONE INACTIVATED), INFLUENZA A VIRUS A/TEXAS/50/2012 X-223A (H3N2) ANTIGEN (MDCK CELL DERIVED, PROPIOLACTONE INACTIVATED), and INFLUENZA B VIRUS B/MASSACHUSETTS/2/2012 ANTIGEN (MDCK CELL DERIVED, PROPIOLACTONE INACTIVATED)"
+128619464,993,2025-08-08,GLYCERIN
+095534918,994,2025-11-21,Aspergillus fumigatus
+300953068,995,2024-10-20,Miconazole Nitrate
+075071510,996,2024-08-21,OCTINOXATE and TITANIUM DIOXIDE
+018381526,997,2023-08-13,"RESORCINOL, SULFUR"
+139883165,998,2024-04-10,Titanium Dioxide
+623205883,999,2023-08-20,Ibuprofen
+72381526,1000,2025-09-25,fexofenadine hydrochloride
