@@ -40,7 +40,7 @@ ORDER BY appointment_date_time;
 
 
 -- Added a new column called status to display if the appointment is completed 
-ALTER TABLE appointment ADD status VARCHAR(20);
+ALTER TABLE appointment ADD status CHAR(20);
 
 -- Set status as Completed, Upcoming, or Unknown
 UPDATE appointment
