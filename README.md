@@ -1,52 +1,39 @@
 # Healthcare Patient Management Database
-This project is a mock healthcare database system built using MySQL. It uses data generated via Mockaroo to simulate patients, appointments, and treatments. The goal was to practice SQL skills, data integration, and basic analytics relevant to real-world healthcare systems.
+
+This project simulates a healthcare database system using MySQL. It was designed to practice data modeling, table relationships, data importing, and SQL querying in a realistic medical context. All data was mock-generated using Mockaroo.
 
 ## Files Included
-patients.csv — Mock patient info (name, DOB, gender, email)
+- `patients.csv` – Contains patient information (name, date of birth, gender, email)
+- `appointment.csv` – Includes appointment date, time, doctor name, and status
+- `treatments.csv` – Tracks patient treatment dates and medications
+- `healthcare_database.sql` – Contains table creation statements and SQL queries
 
-appointment.csv — Appointment dates, assigned doctors
+## Database Structure and Setup
 
-treatments.csv — Patient treatment history and medications
+- Tables were created using appropriate data types such as `INT`, `TEXT`, `DATE`, `DATETIME`, and `TIME`
+- Relationships were enforced using foreign keys (e.g., `patient_id`)
+- CSV data was imported using MySQL Workbench's Table Import Wizard
+- Formatting issues like AM/PM time values were fixed by converting to 24-hour format
+- Safe update mode was disabled where necessary using `SET SQL_SAFE_UPDATES = 0`
 
-healthcare database.sql — All SQL queries and table logic
+## Key Features
 
-## Features & Queries
-Data Import & Table Setup
-Imported CSV data into structured MySQL tables.
+### Table Relationships
+- `appointments` and `treatments` tables are linked to `patients` using the `patient_id` foreign key
 
-Established relationships via patient_id.
+### Core SQL Queries
+- Display all patients and their treatments
+- List upcoming appointments using `NOW()` to filter future dates
+- Join patients with appointment and doctor information
+- Format date and time using `DATE()` and `DATE_FORMAT()` for cleaner output
 
-## Core Queries
-List all patient info and treatments.
+### Appointment Status Logic
+- A `status` column was added to the `appointment` table
+- Appointments are automatically marked as "Completed" or "Upcoming" based on the current time
 
-Join patients with their appointment and doctor info.
-
-Filter for upcoming appointments using NOW().
-
-## Status Feature
-Added a status column to the appointment table to mark if an appointment is:
-
-Upcoming
-
-Completed
-
-Unknown
-
-Automatically updated using SQL CASE logic.
-
-## Analytics
-Count of appointments by status.
-
-Sort patients to show those with upcoming visits first.
-
-Identify the next upcoming appointment.
-
-## What I Learned
-Creating and managing relational databases in MySQL.
-
-Using JOINs, DATE functions, and conditional logic.
-
-Writing clear, maintainable SQL with comments.
-
-Simulating real-world business logic using mock data.
-
+```sql
+UPDATE appointment
+SET status = CASE
+  WHEN appointment_date_time < NOW() THEN 'Completed'
+  ELSE 'Upcoming'
+END;
