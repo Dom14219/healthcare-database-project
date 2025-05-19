@@ -14,7 +14,6 @@ This project simulates a healthcare database system using MySQL. It was designed
 - Relationships were enforced using foreign keys (e.g., `patient_id`)
 - CSV data was imported using MySQL Workbench's Table Import Wizard
 - Formatting issues like AM/PM time values were fixed by converting to 24-hour format
-- Safe update mode was disabled where necessary using `SET SQL_SAFE_UPDATES = 0`
 
 ## Key Features
 
